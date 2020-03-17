@@ -2,10 +2,12 @@
 
 void foo()
 {
+    int i = 10;
 }
 
 int baa()
 {
+    int a = 0;
     return 0;
 }
 

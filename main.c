@@ -8,6 +8,7 @@ void foo()
 int baa()
 {
     int a = 0;
+    int b = 0;
     return 0;
 }
 
